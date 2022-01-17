@@ -22,6 +22,11 @@ Denna readme fil har skapats för inlämningsuppgift Moment 1, deluppgift 2.1 p�
 -   git commit - m "First commit, index, css and image files created" (för att kopiera alla filer med för en commit)
 -   git push ( ladda upp samtliga filer från local till remote repository )
 
-# Publicerad webbplats
+## Publicerad webbplats
 
 Den färdiga webbplatsen är publicerat under Github Pages, ![DT093G Moment 1 Del 2.1](https://anniebrgit.github.io/DT093G-Moment-1-Del-2.1/), länk öppnas i ett nytt fönster. 
+
+## Publicerad webbplats
+
+Vilket kommando behöver du använda i terminalen/kommandoprompten för att klona detta repository till din dator? 
+- Du kan enkelt klona detta repository till din egen dator genom att i kommandoterminalen ange kommandot git clone, och ange även https://anniebrgit.github.io/DT093G-Moment-1-Del-2.1/. Med git clone kopieras källkoden från detta remote repository. Om du redan har kopierat projektet, och vill kopiera ändringar som har gjorts sedan dess kan du använda kommandot git pull i terminalen.
