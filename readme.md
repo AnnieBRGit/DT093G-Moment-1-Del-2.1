@@ -16,7 +16,8 @@ Denna readme fil har skapats för inlämningsuppgift Moment 1, deluppgift 2.1 p�
 -	Programspråk: HTML, CSS
 -   Bild: gratis bild från Pixabay
 -   Kod är skapat i Github, med en Gitpod plugin installerad. 
--   **Kommandon som har använts för att överföra ändringar till local och remote repositories:**
+
+ **Kommandon som har använts för att överföra ändringar till local och remote repositories:**
 -   git add *  (för att lägga till filer)
 -   git commit - m "First commit, index, css and image files created" (för att kopiera alla filer med för en commit)
 -   git push ( ladda upp samtliga filer från local till remote repository )
