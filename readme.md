@@ -23,4 +23,4 @@ Denna readme fil har skapats för inlämningsuppgift Moment 1, deluppgift 2.1 p�
 
 # Publicerad webbplats
 
-Den färdiga webbplatsen är publicerat under Github Pages, [DT093G Moment 1 Del 2.1(https://anniebrgit.github.io/DT093G-Moment-1-Del-2.1/)], länk öppnas i ett nytt fönster. 
+Den färdiga webbplatsen är publicerat under Github Pages, ![DT093G Moment 1 Del 2.1](https://anniebrgit.github.io/DT093G-Moment-1-Del-2.1/), länk öppnas i ett nytt fönster. 
