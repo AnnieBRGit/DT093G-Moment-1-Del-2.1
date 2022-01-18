@@ -29,4 +29,4 @@ Den färdiga webbplatsen är publicerat under Github Pages, ![DT093G Moment 1 De
 ## Publicerad webbplats
 
 Vilket kommando behöver du använda i terminalen/kommandoprompten för att klona detta repository till din dator? 
-- Du kan enkelt klona detta repository till din egen dator genom att i kommandoterminalen ange kommandot git clone, och ange även https://anniebrgit.github.io/DT093G-Moment-1-Del-2.1/. Med git clone kopieras källkoden från detta remote repository. Om du redan har kopierat projektet, och vill kopiera ändringar som har gjorts sedan dess kan du använda kommandot git pull i terminalen.
+- Du kan enkelt klona detta repository till din egen dator genom att i kommandoterminalen ange kommandot "git clone https://github.com/AnnieBRGit/DT093G-Moment-1-Del-2.1" i terminalen. Med git clone kopieras källkoden och samtliga filer från detta remote repository. Om du redan har kopierat projektet, och vill kopiera ändringar som har gjorts sedan dess kan du använda kommandot git pull i terminalen.
